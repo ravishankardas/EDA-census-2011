@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 region-india.py
+echo q7 done

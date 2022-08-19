@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 age-india.py
+echo q5 done

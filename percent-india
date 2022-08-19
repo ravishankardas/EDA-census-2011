@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 percent-india.py
+echo q1 done

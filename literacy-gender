@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 literacy-gender.py
+echo q9 done

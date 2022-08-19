@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 2-to-1-ratio.py
+echo q4-b done

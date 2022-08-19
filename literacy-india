@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 literacy-india.py
+echo q6 done

@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 gender-india.py
+echo q2 done
